@@ -47,7 +47,8 @@ Techs that I've used at least once <br/>
 
 </td></tr></table>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=judemin&show_icons=true&locale=en" alt="judemin" /></p>
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=judemin&show_icons=true&locale=en" alt="judemin" align="center" /></div>  
 
 ## :books: Education
 Konkuk University. 20th <br/>
