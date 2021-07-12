@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm SanyYeonMin</h1>
+<h1 align="left">Hi 👋, I'm SangYeonMin</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=judemin&label=Profile%20views&color=0e75b6&style=flat" alt="judemin" /> </p>
 
-## :wrench: Tech Stack
+## :wrench: Tech Set
 Techs that I've used at least once <br/>
 <table><tr><td valign="top" width="33%">
 
