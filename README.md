@@ -63,6 +63,6 @@ Techs that I've used at least once <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=judemin&show_icons=true&locale=en" alt="judemin" align="center" /></div>  
 
 ## :books: Education
-Konkuk University. 20th <br/>
+### Konkuk University. 20th <br/>
 Major  Smart ICT Convergence <br/>
 Minor  Department of Applied Statistics <br/>
