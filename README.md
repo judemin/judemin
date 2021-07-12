@@ -2,7 +2,7 @@
 
 ## :books: Education
 Konkuk University. 20th <br/>
-Major  SmartICTConvergence <br/>
+Major  Smart ICT Convergence <br/>
 Minor  Department of Applied Statistics <br/>
 
 
