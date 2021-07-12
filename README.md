@@ -2,6 +2,7 @@
 
 ## :wrench: Tech Stack
 Techs that I've used at least once <br/>
+<img src="https://img.shields.io/badge/#A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 
 ## :books: Education
 Konkuk University. 20th <br/>
