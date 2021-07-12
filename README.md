@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+:books: Education
+Konkuk University. 20th
+Major  SmartICTConvergence
+Minor  Dept of Applied Statistics
+
+
 <!--
 **judemin/judemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
