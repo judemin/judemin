@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 :books: Education
-Konkuk University. 20th
+Konkuk University. 20th <br/>
 Major  SmartICTConvergence
 Minor  Dept of Applied Statistics
 
