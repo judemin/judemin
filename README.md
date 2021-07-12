@@ -1,7 +1,7 @@
 <h1 align="left">:wave:Hello, World! </h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=judemin&label=Profile%20views&color=0e75b6&style=flat" alt="judemin" /> </p>
 
-### <div align="center">I'm SanyYeon, a student 👨‍💻 working hard to be a cool developer 🚀</div>  
+### <div align="center">I'm SangYeon, a student 👨‍💻 working hard to be a cool developer 🚀</div>  
 <br/>
   
 
