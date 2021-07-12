@@ -1,4 +1,4 @@
-<h1 align="left"><Hello, World!/></h1>
+<h1 align="left">:wave:Hello, World! </h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=judemin&label=Profile%20views&color=0e75b6&style=flat" alt="judemin" /> </p>
 
 ## :wrench: Tech Set
