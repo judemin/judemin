@@ -4,7 +4,7 @@
 ### <div align="center">I'm SanyYeon, a student 👨‍💻 working hard to be a cool developer 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/judemin/WhenWillWeMeet)  
+- 🔭 I’m currently working on [우리언제만나?](https://github.com/judemin/WhenWillWeMeet)  
   
 
 - 🌱 I’m currently learning Kotlin
