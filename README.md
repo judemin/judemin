@@ -1,9 +1,8 @@
 ### Hi there 👋
-<br/>
+
 ## :wrench: Tech Stack
 Techs that I've used at least once <br/>
 
-<br/>
 ## :books: Education
 Konkuk University. 20th <br/>
 Major  Smart ICT Convergence <br/>
