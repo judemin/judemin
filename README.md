@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm SangYeonMin</h1>
+<h1 align="left">Hi 👋, I'm SangYeon Min</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=judemin&label=Profile%20views&color=0e75b6&style=flat" alt="judemin" /> </p>
 
 ## :wrench: Tech Set
@@ -47,7 +47,7 @@ Techs that I've used at least once <br/>
 
 </td></tr></table>  
 
-## Github Stats  
+## :vhs: Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=judemin&show_icons=true&locale=en" alt="judemin" align="center" /></div>  
 
 ## :books: Education
