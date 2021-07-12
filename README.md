@@ -1,6 +1,17 @@
 <h1 align="left">:wave:Hello, World! </h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=judemin&label=Profile%20views&color=0e75b6&style=flat" alt="judemin" /> </p>
 
+### <div align="center">I'm SanyYeon, a student 👨‍💻 working hard to be a cool developer 🚀</div>  
+  
+
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/judemin/WhenWillWeMeet)  
+  
+
+- 🌱 I’m currently learning Kotlin
+  
+
+- ⚡ Fun fact: When I make variables, I combine many cases like "camel-Kebab"
+
 ## :wrench: Tech Set
 Techs that I've used at least once <br/>
 <table><tr><td valign="top" width="33%">
