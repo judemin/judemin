@@ -4,7 +4,7 @@
 <br/>
   
 
-- 🔭 I’m currently working on [우리언제만나?](https://github.com/judemin/WhenWillWeMeet)  
+- 🔭 I’m currently working on [슈웅](https://github.com/Dev-Team-IB/Shoe-oong)  
   
 
 - 🌱 I’m currently learning Kotlin
