@@ -4,7 +4,7 @@
 <br/>
   
 
-- 🔭 I’m currently working on [Purple-Shoes-Backend](https://github.com/Dev-Team-IB/Shoe-oong)
+- 🔭 I’m currently working on [PurpleShoes-Back](https://github.com/Dev-Team-IB/Shoe-oong)
   
 
 - 🌱 I’m currently learning Kotlin
