@@ -4,7 +4,7 @@
 <br/>
   
 
-- 🔭 I’m currently working on [슈웅](https://github.com/Dev-Team-IB/Shoe-oong), [Sound-helper](https://github.com/euphony-io/sound-helper)  
+- 🔭 I’m currently working on [Purple-Shoes-Backend](https://github.com/Dev-Team-IB/Shoe-oong)
   
 
 - 🌱 I’m currently learning Kotlin
