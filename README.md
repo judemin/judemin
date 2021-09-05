@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [PurpleShoes-Back](https://github.com/Dev-Team-IB/Shoe-oong)
   
 
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Heroku, MongoDB
   
 
 - ⚡ Fun fact: When I make variables, I combine many cases like "camel-Kebab"
