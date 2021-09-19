@@ -4,7 +4,7 @@
 <br/>
   
 
-- 🔭 I’m currently working on [purple-shoes-web](https://github.com/Dev-Team-IB/purple-shoes-web)
+- 🔭 I’m currently working on [purple-shoes-backend](https://github.com/Dev-Team-IB/PurpleShoes-Back), [Euphony](https://github.com/euphony-io/euphony)
   
 
 - 🌱 I’m currently learning Heroku, MongoDB
