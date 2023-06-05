@@ -1,21 +1,10 @@
-<h1 align="left">:wave:Hello, World! </h1>
+<h1 align="left">Hello, World! </h1>
 
-### <div align="center">I'm SangYeon, a student 👨‍💻 working hard to be a cool developer 🚀</div>  
-<br/>
-  
-
-- 🔭 I’m currently working on [purple-shoes-backend](https://github.com/Dev-Team-IB/PurpleShoes-Back), [Euphony](https://github.com/euphony-io/euphony)
-  
-
-- 🌱 I’m currently learning Heroku, MongoDB
-  
-
-- ⚡ Fun fact: When I make variables, I combine many cases like "camel-Kebab"
+- 🔭 Woking Projects [purple-shoes-backend](https://github.com/Dev-Team-IB/PurpleShoes-Back), [Euphony](https://github.com/euphony-io/euphony)
 
 ## :wrench: Tech Set
 Techs that I've used at least once <br/>
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Language  
