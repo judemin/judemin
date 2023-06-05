@@ -1,6 +1,7 @@
-<h1 align="left">Hello, World! </h1>
+<h2 align="left">Hello, World! </h2>
 
-- 🔭 Woking Projects [purple-shoes-backend](https://github.com/Dev-Team-IB/PurpleShoes-Back), [Euphony](https://github.com/euphony-io/euphony)
+### 🔭 Woking Projects <br/>
+[flutlab-gym-bot-test]([https://github.com/Dev-Team-IB/PurpleShoes-Back](https://github.com/judemin/flutlab-gym-bot-test)) <br/>
 
 ## :wrench: Tech Set
 Techs that I've used at least once <br/>
