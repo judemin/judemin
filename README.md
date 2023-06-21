@@ -63,8 +63,6 @@ Techs that I've used at least once <br/>
 ## :vhs: Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=judemin&show_icons=true&locale=en" alt="judemin" align="center" /></div>  
 
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs?username=judemin&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/judemin)
-
 ## :books: Education
 ### Konkuk University. 20th <br/>
 Major  Smart ICT Convergence <br/>
