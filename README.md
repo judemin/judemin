@@ -1,8 +1,10 @@
 <h2 align="left">Hello, World! </h2>
 
 ### 🔭 Woking Projects <br/>
-💪 [[RUF-REACT-OUT](https://github.com/TEAM-RUF/RUF-REACT-OUT.git)] React Next TSX <br/>
-💪 [[RUF-BACKEND](https://github.com/gym-bot/gym-bot-backend)] Express.js MongoDB <br/>
+💬 [[HEARUS-FRONTEND](https://github.com/GOORM-TEAM-Hearus/HEARUS-FRONTEND)] VUE.js <br/>
+💬 [[HEARUS-BACKEND](https://github.com/GOORM-TEAM-Hearus/HEARUS-BACKEND)] Express.js <br/>
+💬 [[HEARUS-AI-SERVING](https://github.com/GOORM-TEAM-Hearus/HEARUS-AI-SERVING)] Flask <br/>
+💬 [[HEARUS-IAC](https://github.com/GOORM-TEAM-Hearus/HEARUS-IAC)] Teraform K8s <br/>
 📝 [[ABOUHT-BACKEND](https://github.com/Team-On-Board/abouht-backend)] Express.js MongoDB <br/>
 
 ## :wrench: Tech Set
