@@ -5,7 +5,7 @@
 💬 [[HEARUS-BACKEND](https://github.com/GOORM-TEAM-Hearus/HEARUS-BACKEND)] Express.js <br/>
 💬 [[HEARUS-AI-SERVING](https://github.com/GOORM-TEAM-Hearus/HEARUS-AI-SERVING)] Flask <br/>
 💬 [[HEARUS-IAC](https://github.com/GOORM-TEAM-Hearus/HEARUS-IAC)] Teraform K8s <br/>
-📝 [[ABOUHT-BACKEND](https://github.com/Team-On-Board/abouht-backend)] Express.js MongoDB <br/>
+🦁 [[LIKE-LION](https://github.com/judemin/LIKE-LION-FRONT.git)] React, Express.js MongoDB <br/>
 
 ## :wrench: Tech Set
 Techs that I've used at least once <br/>
