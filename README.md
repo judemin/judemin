@@ -1,10 +1,8 @@
 <h2 align="left">Hello, World! </h2>
 
 ### 🔭 Woking Projects <br/>
-💬 [[HEARUS-FRONTEND](https://github.com/GOORM-TEAM-Hearus/HEARUS-FRONTEND)] VUE.js <br/>
 💬 [[HEARUS-BACKEND](https://github.com/GOORM-TEAM-Hearus/HEARUS-BACKEND)] Express.js <br/>
 💬 [[HEARUS-AI-SERVING](https://github.com/GOORM-TEAM-Hearus/HEARUS-AI-SERVING)] Flask <br/>
-💬 [[HEARUS-IAC](https://github.com/GOORM-TEAM-Hearus/HEARUS-IAC)] Teraform K8s <br/>
 🦁 [[LIKE-LION](https://github.com/judemin/LIKE-LION-FRONT.git)] React, Express.js MongoDB <br/>
 
 ## :wrench: Tech Set
