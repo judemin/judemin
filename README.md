@@ -2,7 +2,7 @@
 
 ### 🔭 Woking Projects <br/>
 💬 [[HEARUS-BACKEND](https://github.com/GOORM-TEAM-Hearus/HEARUS-BACKEND)] Express.js <br/>
-💬 [[HEARUS-AI-SERVING](https://github.com/GOORM-TEAM-Hearus/HEARUS-AI-SERVING)] Flask <br/>
+💬 [[HEARUS-AI-SERVING](https://github.com/GOORM-TEAM-Hearus/HEARUS-AI-SERVING)] FastAPI <br/>
 🦁 [[LIKE-LION](https://github.com/judemin/LIKE-LION-FRONT.git)] React, Express.js MongoDB <br/>
 
 ## :wrench: Tech Set
