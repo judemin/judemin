@@ -8,12 +8,15 @@
 ## :wrench: Tech Set
 Techs that I've used at least once <br/>
 
+<tr>
 ### Frontend
+  <td>
 <img src="https://img.shields.io/badge/Vue.js-grey?style=for-the-badge&logo=vue.js"/>
 <img src="https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android"/>
 <img src="https://img.shields.io/badge/flutter-grey?style=for-the-badge&logo=flutter"/>
 <img src="https://img.shields.io/badge/unity-grey?style=for-the-badge&logo=unity"/>
+</tr>
 
 ### Backend
 <img src="https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=nodedotjs"/>
@@ -45,6 +48,8 @@ Techs that I've used at least once <br/>
 <img src="https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/amazon eks-grey?style=for-the-badge&logo=amazoneks"/>
 <img src="https://img.shields.io/badge/terraform-grey?style=for-the-badge&logo=terraform"/>
+
+</tr>
 
 <br/>  
 
