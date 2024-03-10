@@ -5,10 +5,20 @@
 💬 [[HEARUS-AI-SERVING](https://github.com/GOORM-TEAM-Hearus/HEARUS-AI-SERVING)] FastAPI <br/>
 🦁 [[LIKE-LION](https://github.com/judemin/LIKE-LION-FRONT.git)] React, Express.js MongoDB <br/>
 
-## :wrench: Tech Set
+## :⚙️: Tech Set
+### Major Skills
+<img src="https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/express.js-grey?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/spring boot-grey?style=for-the-badge&logo=springboot"/>
+<img src="https://img.shields.io/badge/github actions-grey?style=for-the-badge&logo=githubactions"/>
+<img src="https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/kubernetes-grey?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=amazonaws"/>
+
+### Every Skills
 Techs that I've used at least once <br/>
 
-### Frontend
+#### Frontend
 <div style="display: inline;">
     <img src="https://img.shields.io/badge/Vue.js-grey?style=for-the-badge&logo=vue.js"/>
  	<img src="https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react"/>
@@ -17,7 +27,7 @@ Techs that I've used at least once <br/>
     <img src="https://img.shields.io/badge/unity-grey?style=for-the-badge&logo=unity"/>
 </div>
 
-### Backend
+#### Backend
 <div style="display: inline;">
     <img src="https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=nodedotjs"/>
     <img src="https://img.shields.io/badge/express.js-grey?style=for-the-badge&logo=express"/>
@@ -31,7 +41,7 @@ Techs that I've used at least once <br/>
     <img src="https://img.shields.io/badge/mongo db-grey?style=for-the-badge&logo=mongodb"/>
 </div>
 
-### DevOps
+#### DevOps
 <div style="display: inline;">
     <img src="https://img.shields.io/badge/netlify-grey?style=for-the-badge&logo=netlify"/>
     <img src="https://img.shields.io/badge/vercel-grey?style=for-the-badge&logo=vercel"/>
@@ -43,7 +53,7 @@ Techs that I've used at least once <br/>
     <img src="https://img.shields.io/badge/grafana-grey?style=for-the-badge&logo=grafana"/>
 </div>
 
-### Cloud Native
+#### Cloud Native
 <div style="display: inline;">
     <img src="https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker"/>
     <img src="https://img.shields.io/badge/kubernetes-grey?style=for-the-badge&logo=kubernetes"/>
