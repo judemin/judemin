@@ -7,13 +7,16 @@
 
 ## :⚙️: Tech Set
 ### Major Skills
-<img src="https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=nodedotjs"/>
-<img src="https://img.shields.io/badge/express.js-grey?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/spring boot-grey?style=for-the-badge&logo=springboot"/>
-<img src="https://img.shields.io/badge/github actions-grey?style=for-the-badge&logo=githubactions"/>
-<img src="https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/kubernetes-grey?style=for-the-badge&logo=kubernetes"/>
-<img src="https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=amazonaws"/>
+<div style="display: inline;">
+    <img src="https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=nodedotjs"/>
+    <img src="https://img.shields.io/badge/express.js-grey?style=for-the-badge&logo=express"/>
+    <img src="https://img.shields.io/badge/spring boot-grey?style=for-the-badge&logo=springboot"/>
+    <img src="https://img.shields.io/badge/maria db-grey?style=for-the-badge&logo=mariadb"/>
+    <img src="https://img.shields.io/badge/mongo db-grey?style=for-the-badge&logo=mongodb"/>
+    <img src="https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker"/>
+    <img src="https://img.shields.io/badge/kubernetes-grey?style=for-the-badge&logo=kubernetes"/>
+    <img src="https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=amazonaws"/>
+</div>
 
 ### Every Skills
 Techs that I've used at least once <br/>
