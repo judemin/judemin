@@ -5,8 +5,8 @@
 💬 [[HEARUS-AI-SERVING](https://github.com/GOORM-TEAM-Hearus/HEARUS-AI-SERVING)] FastAPI <br/>
 🦁 [[LIKE-LION](https://github.com/judemin/LIKE-LION-FRONT.git)] React, Express.js MongoDB <br/>
 
-## :⚙️: Tech Set
-### Major Skills
+## ⚙️ Tech Set
+### 🛠️ Major Skills
 <div style="display: inline;">
     <img src="https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=nodedotjs"/>
     <img src="https://img.shields.io/badge/express.js-grey?style=for-the-badge&logo=express"/>
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=amazonaws"/>
 </div>
 
-### Every Skills
+### 🧰 Every Skills
 Techs that I've used at least once <br/>
 
 #### Frontend
