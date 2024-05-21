@@ -19,6 +19,9 @@
     <img src="https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=amazonaws"/>
 </div>
 
+## 🖋️ Recent Post 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sasha1107)](https://velog.io/@sasha1107)
+
 ### 🧰 Every Skills
 Techs that I've used at least once <br/>
 
