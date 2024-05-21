@@ -6,8 +6,7 @@
 💬 [[HEARUS-AI-SERVING](https://github.com/GOORM-TEAM-Hearus/HEARUS-AI-SERVING)] FastAPI <br/>
 🦁 [[LIKE-LION](https://github.com/judemin/LIKE-LION-FRONT.git)] React, Django, MongoDB <br/>
 
-## ⚙️ Tech Set
-### 🛠️ Major Skills
+## 🛠️ Major Skills
 <div style="display: inline;">
     <img src="https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=nodedotjs"/>
     <img src="https://img.shields.io/badge/express.js-grey?style=for-the-badge&logo=express"/>
@@ -22,7 +21,7 @@
 ## 🖋️ Recent Post 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=judemin)](https://velog.io/@judemin)
 
-### 🧰 Every Skills
+## 🧰 Every Skills
 Techs that I've used at least once <br/>
 
 #### Frontend
