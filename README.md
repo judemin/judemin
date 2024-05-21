@@ -20,7 +20,7 @@
 </div>
 
 ## 🖋️ Recent Post 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=judemin)](https://velog.io/@judemin/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=judemin)](https://github.com/eungyeole/velog-readme-stats)
 
 ### 🧰 Every Skills
 Techs that I've used at least once <br/>
