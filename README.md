@@ -1,10 +1,9 @@
 <h2 align="left">Hello, World! </h2>
 
 ### 🔭 Woking Projects <br/>
-💬 [[HEARUS-BACKEND](https://github.com/GOORM-TEAM-Hearus/HEARUS-BACKEND)] Express.js, MongoDB <br/>
+🖱️ [[All-KUL-SPRING-BE](https://github.com/All-KUL/All-KUL-SPRING-BE.git)] SpringBoot, MongoDB <br/>
 💬 [[HEARUS-SPRING-BACKEND](https://github.com/TEAM-Hearus/HEARUS-SPRING-BACKEND)] SpringBoot, MariaDB, MongoDB <br/>
 💬 [[HEARUS-AI-SERVING](https://github.com/GOORM-TEAM-Hearus/HEARUS-AI-SERVING)] FastAPI <br/>
-🦁 [[LIKE-LION](https://github.com/judemin/LIKE-LION-FRONT.git)] React, Django, MongoDB <br/>
 
 ## 🛠️ Major Skills
 <div style="display: inline;">
