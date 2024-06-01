@@ -1,8 +1,4 @@
-<div style="display: inline;">
-    <h2 align="left">Hello, World! </h2>
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjudemin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
-
+<h2 align="left">Hello, World! </h2>
 
 ### 🔭 Woking Projects <br/>
 🖱️ [[All-KUL-SPRING-BE](https://github.com/All-KUL/All-KUL-SPRING-BE.git)] SpringBoot, MongoDB <br/>
@@ -80,3 +76,5 @@ Techs that I've used at least once <br/>
 ### Konkuk University. 20th <br/>
 Major  Smart ICT Convergence <br/>
 Minor  Department of Applied Statistics <br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjudemin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
