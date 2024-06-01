@@ -1,5 +1,7 @@
 <h2 align="left">Hello, World! </h2>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjudemin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### 🔭 Woking Projects <br/>
 🖱️ [[All-KUL-SPRING-BE](https://github.com/All-KUL/All-KUL-SPRING-BE.git)] SpringBoot, MongoDB <br/>
 💬 [[HEARUS-SPRING-BACKEND](https://github.com/TEAM-Hearus/HEARUS-SPRING-BACKEND)] SpringBoot, MariaDB, MongoDB <br/>
