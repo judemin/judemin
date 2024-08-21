@@ -18,7 +18,7 @@
 ## 🖋️ Recent Post 
 <div align="center">
     [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=judemin)](https://velog.io/@judemin)
-</div>div
+</div>
 
 ## 🧰 Every Skills
 Techs that I've used at least once <br/>
