@@ -16,9 +16,11 @@
 </div>
 
 ## 🖋️ Recent Post 
-<div align="center">
-    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=judemin)](https://velog.io/@judemin)
-</div>
+<p align="center">
+  <a href="https://velog.io/@judemin">
+    <img src="https://velog-readme-stats.vercel.app/api?name=judemin" alt="Velog's GitHub stats">
+  </a>
+</p>
 
 ## 🧰 Every Skills
 Techs that I've used at least once <br/>
