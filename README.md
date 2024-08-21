@@ -16,7 +16,9 @@
 </div>
 
 ## 🖋️ Recent Post 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=judemin)](https://velog.io/@judemin)
+<div align="center">
+    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=judemin)](https://velog.io/@judemin)
+</div>div
 
 ## 🧰 Every Skills
 Techs that I've used at least once <br/>
@@ -68,7 +70,10 @@ Techs that I've used at least once <br/>
 <br/>  
 
 ## :vhs: Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=judemin&show_icons=true&locale=en" alt="judemin" align="center" /></div>  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=judemin&show_icons=true&locale=en" alt="judemin" align="center" />
+    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=judemin)](https://solved.ac/judemin)
+</div>  
 
 ## :books: Education
 ### Konkuk University. 20th <br/>
