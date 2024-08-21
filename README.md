@@ -71,7 +71,7 @@ Techs that I've used at least once <br/>
 
 <br/>  
 
-## :vhs: Github Stats  
+## :vhs: Stats  
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=judemin&show_icons=true&locale=en" alt="judemin"/>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=judemin" alt="Velog's GitHub stats">
