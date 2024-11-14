@@ -79,19 +79,18 @@ Techs that I've used at least once <br/>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=judemin&show_icons=true&locale=en" alt="judemin"/>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=judemin" alt="Velog's GitHub stats">
+    <a href="https://github.com/devxb/gitanimals">
+      <img
+        src="https://render.gitanimals.org/lines/judemin"
+        width="1200"
+        height="200"
+      />
+    </a>
 </div>  
 
 ## :books: Education
 ### Konkuk University. 20th <br/>
 Major  Smart ICT Convergence <br/>
 Minor  Department of Applied Statistics <br/>
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/judemin"
-  width="1200"
-  height="300"
-/>
-</a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjudemin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
