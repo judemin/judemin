@@ -88,7 +88,7 @@ Minor  Department of Applied Statistics <br/>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/farms/judemin"
+  src="https://render.gitanimals.org/judemin"
   width="1200"
   height="300"
 />
