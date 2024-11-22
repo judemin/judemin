@@ -79,13 +79,6 @@ Techs that I've used at least once <br/>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=judemin&show_icons=true&locale=en" alt="judemin"/>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=judemin" alt="Velog's GitHub stats">
-    <a href="https://github.com/devxb/gitanimals">
-      <img
-        src="https://render.gitanimals.org/lines/judemin"
-        width="1200"
-        height="200"
-      />
-    </a>
 </div>  
 
 ## :books: Education
