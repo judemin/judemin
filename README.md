@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/mongo db-grey?style=for-the-badge&logo=mongodb"/>
     <img src="https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker"/>
     <img src="https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes"/>
-    <img src="https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=amazonaws"/>
+    <img src="https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=amazonwebservices"/>
     <img src="https://img.shields.io/badge/openstack-red?style=for-the-badge&logo=openstack"/>
 </div>
 
