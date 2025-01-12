@@ -2,8 +2,7 @@
 
 ### 🔭 Woking Projects <br/>
 
-📆 [[WWWM-SPRING-BE](https://github.com/TEAM-WHEN-WILL-WE-MEET/WWWM-SPRING-BE)] SpringBoot, MongoDB <br/>
-📝 [[PROJECT-JUST-GONGDAE](https://github.com/judemin/PROJECT-JUST-GONGDAE.git)] SpringBoot, MariaDB <br/>
+📆 [[WWWM-SPRING-BE](https://github.com/TEAM-WHEN-WILL-WE-MEET/WWWM-SPRING-BE)] SpringBoot, MongoDB, AWS <br/>
 🦁 [[LIKE-LION-KU-CODING-TEST](https://github.com/TEAM-LIKE-LION-KU-CODING-TEST/CODING-TEST-MSY-JAVA)] Java <br/>
 
 ## 🛠️ Major Skills
@@ -12,9 +11,9 @@
     <img src="https://img.shields.io/badge/maria db-grey?style=for-the-badge&logo=mariadb"/>
     <img src="https://img.shields.io/badge/mongo db-grey?style=for-the-badge&logo=mongodb"/>
     <img src="https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker"/>
-    <img src="https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes"/>
-    <img src="https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=amazonwebservices"/>
-    <img src="https://img.shields.io/badge/openstack-red?style=for-the-badge&logo=openstack"/>
+    <img src="https://img.shields.io/badge/kubernetes-grey?style=for-the-badge&logo=kubernetes"/>
+    <img src="https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=amazonwebservices"/>
+    <img src="https://img.shields.io/badge/openstack-grey?style=for-the-badge&logo=openstack"/>
 </div>
 
 ## 🖋️ Recent Post 
