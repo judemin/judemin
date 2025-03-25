@@ -2,7 +2,8 @@
 
 ### 🔭 Woking Projects <br/>
 
-📆 [[WWWM-SPRING-BE](https://github.com/TEAM-WHEN-WILL-WE-MEET/WWWM-SPRING-BE)] SpringBoot, MongoDB, AWS, Openstack <br/>
+📆 [[WWWM-SPRING-BE](https://github.com/TEAM-WHEN-WILL-WE-MEET/WWWM-SPRING-BE)] Spring Boot, MongoDB, AWS, K8s, Openstack <br/>
+💽 [[RAVO-INFRA](https://github.com/TEAM-RAVO-KU/RAVO-INFRA)] Spring Boot, MySQL, K8s, K3s, Helm, Docker, Openstack <br/>
 🦁 [[LIKE-LION-KU-CODING-TEST](https://github.com/TEAM-LIKE-LION-KU-CODING-TEST/CODING-TEST-MSY-JAVA)] Java <br/>
 
 ## 🛠️ Major Skills
