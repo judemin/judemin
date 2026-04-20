@@ -8,7 +8,7 @@
 
 ## 🛠️ Major Skills
 <div style="display: inline;">
-    <img src="https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazonwebservices"/>
+    <img src="https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazon-aws"/>
     <img src="https://img.shields.io/badge/Kubernetes-grey?style=for-the-badge&logo=kubernetes"/>
     <img src="https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux"/>
     <img src="https://img.shields.io/badge/Terraform-grey?style=for-the-badge&logo=terraform"/>
