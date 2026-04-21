@@ -24,11 +24,6 @@
   </a>
 </p>
 
-## :books: Education
-### Konkuk University. 20th <br/>
-Major  Smart ICT Convergence <br/>
-Minor  Department of Applied Statistics <br/>
-
 ## 💼 Career
 ### NC ITS / System Engineer (Contract) <br/>
 2025.09 ~ 2026.04 (7 months) <br/>
@@ -36,3 +31,9 @@ Minor  Department of Applied Statistics <br/>
 - Provisioned and optimized servers by installing Linux/Windows Server, configuring system environments, and setting up network bonding and teaming. <br/>
 - Monitored infrastructure and handled L1/L2 incident response using tools such as Amplifier, OME, and Zabbix; performed hardware troubleshooting including RAID-based disk replacement and preventive checks for CPU, fan, and memory components. <br/>
 - Supported service stability for NCSOFT game services and internal systems through infrastructure resource control, scheduled maintenance, and firmware updates. <br/>
+
+## :books: Education
+### Konkuk University. 20th <br/>
+Major  Smart ICT Convergence <br/>
+Minor  Department of Applied Statistics <br/>
+GPA  4.34/4.5 <br/>
