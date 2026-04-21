@@ -3,7 +3,7 @@
 ### 🔭 Woking Projects <br/>
 
 🏢 [[SEED-PLUS-INFRA](https://github.com/TEAM-SEED-PLUS/SEED-PLUS-INFRA)] AWS, Terraform, Ansible, Openstack <br/>
-💽 [[RAVO-INFRA](https://github.com/TEAM-RAVO-KU/RAVO-INFRA)] Spring Boot, MySQL, K3s, Helm, Docker, Openstack <br/>
+💽 [[RAVO-INFRA](https://github.com/TEAM-RAVO-KU/RAVO-INFRA)] K8s, OpenStack, Kafka, Debezium, MySQL, Spring Boot <br/>
 🦁 [[LIKE-LION-KU-CODING-TEST](https://github.com/TEAM-LIKE-LION-KU-CODING-TEST/CODING-TEST-MSY-JAVA)] Java, Python <br/>
 
 ## 🛠️ Major Skills
