@@ -18,8 +18,8 @@
 
 ## 🖋️ Recent Post 
 <p align="center">
-  <a href="https://velog.io/@judemin">
-    <img src="https://velog-readme-stats.vercel.app/api?name=judemin" alt="Velog's GitHub stats">
+  <a href="https://velog.io/@judemin" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-judemin-%2320C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge">
   </a>
 </p>
 
